@@ -1,2 +1,3 @@
-Search organisation information
-Have a list of organisation names
+Search organisation information online
+
+Using a list of organisation names
